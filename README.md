@@ -8,7 +8,7 @@ Features:
 
 3. Automatic rotation of logs
 
-4. Using 6 log files of 100KB each, than automatically rotate: log1.txt, log2.txt, log3.txt, log4.txt, log5.txt, log6.txt
+4. Using 8 log files of 100KB each, than automatically rotate: log1.txt, log2.txt, log3.txt, log4.txt, log5.txt, log6.txt, log7.txt, log8.txt
 
 5. All debug messages are stored, not rewrited
 
