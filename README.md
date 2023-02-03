@@ -1,4 +1,4 @@
-# Picodebug -- a tool for debugging and logging in MicroPyhton scripts on Raspberry Pico and Raspberry Pico W
+# Picodebug -- a tool for debugging and logging in MicroPython scripts on Raspberry Pico and Raspberry Pico W
 
 Features:
 
